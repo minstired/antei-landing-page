@@ -1,0 +1,60 @@
+{
+    "logos": [
+      {
+        "src": "./client-logos/deloitte-logo.webp",
+        "alt": "Deloitte logo"
+      },
+      {
+        "src": "./client-logos/cyberport-logo.webp",
+        "alt": "Cyberport logo"
+      },
+      {
+        "src": "./client-logos/hkstp-logo.webp",
+        "alt": "HKSTP logo"
+      },
+      {
+        "src": "./client-logos/hkust-logo.webp",
+        "alt": "HKUST logo"
+      },
+      {
+        "src": "./client-logos/investhk-logo.webp",
+        "alt": "Invest HK logo"
+      },
+      {
+        "src": "./client-logos/fintechhk-logo.webp",
+        "alt": "Fintech HK logo"
+      },
+      {
+        "src": "./client-logos/itmo-university-logo.webp",
+        "alt": "ITMO University logo"
+      },
+      {
+        "src": "./client-logos/sparcus-logo.webp",
+        "alt": "Sparcus logo"
+      },
+      {
+        "src": "./client-logos/hktdc-logo.webp",
+        "alt": "HKTDC logo"
+      },
+      {
+        "src": "./client-logos/hkfc-logo.webp",
+        "alt": "Hong Kong Food Council"
+      },
+      {
+        "src": "./client-logos/hkpc-logo.webp",
+        "alt": "HKPC logo"
+      },
+      {
+        "src": "./client-logos/hkbio-logo.webp",
+        "alt": "HKBIO logo"
+      },
+      {
+        "src": "./client-logos/aws-logo.webp",
+        "alt": "AWS logo"
+      },
+      {
+        "src": "./client-logos/hongkong-a-logo.webp",
+        "alt": "Hong Kong Asia's World City logo"
+      }
+    ]
+  }

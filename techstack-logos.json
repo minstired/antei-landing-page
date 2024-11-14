@@ -1,0 +1,24 @@
+{
+    "technologies": [
+      {
+        "url": "./techstack-logos/react.svg",
+        "alt": "React"
+      },
+      {
+        "url": "./techstack-logos/nodejs.svg",
+        "alt": "Node.js"
+      },
+      {
+        "url": "./techstack-logos/python.svg",
+        "alt": "Python"
+      },
+      {
+        "url": "./techstack-logos/aws.svg",
+        "alt": "Amazon Web Services"
+      },
+      {
+        "url": "./techstack-logos/docker.svg",
+        "alt": "Docker"
+      }
+    ]
+  }

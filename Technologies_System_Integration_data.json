@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Implementing Industry 4.0 Solutions",
+    "subtitle": "",
+    "text": "• Smart Factory Integration<br>• IoT Deployment and Management<br>• Predictive Maintenance Solutions",
+    "imgDesktop": "./assets/pexels-pok-rie-33563-5858521-YBg4p53XwGt5j3N1.webp",
+    "imgMobile": "./assets/pexels-pok-rie-33563-5858521-YBg4p53XwGt5j3N1.webp"
+  },
+  {
+    "title": "Information/Operation Security Solutions",
+    "subtitle": "",
+    "text": "• Internal Blockchains & Quantum Encryption<br>• Cyber Risk & Threat Management<br>• Server Security Solutions",
+    "imgDesktop": "./assets/cyber-security-3400657_1280-AzG7rEOkZkSoWeM2.webp",
+    "imgMobile": "./assets/cyber-security-3400657_1280-AzG7rEOkZkSoWeM2.webp"
+  },
+  {
+    "title": "Software Development",
+    "subtitle": "",
+    "text": "• Development & Testing<br>• Deployment and Support<br>• Load testing, automation, DevOps",
+    "imgDesktop": "./assets/coding-1853305_1280-YX4bPGQe23fjGV6p.webp",
+    "imgMobile": "./assets/coding-1853305_1280-YX4bPGQe23fjGV6p.webp"
+  },
+  {
+    "title": "UI/UX and Web/Mobile Development",
+    "subtitle": "(with custom DB integrations, AI/ML functionalities)",
+    "text": "• Profesional UI/UX<br>• CustDev & Testing<br>• Full-stack Web & Mobile Development<br>• Analytics",
+    "imgDesktop": "./assets/architect-254579_1280-YKbrJ25GW9i0r0qO.webp",
+    "imgMobile": "./assets/architect-254579_1280-YKbrJ25GW9i0r0qO.webp"
+  },
+  {
+    "title": "Platform Solutions Integrations",
+    "subtitle": "",
+    "text": "• Adaptation & Implementation of Applications ERP, Warehouse Management, EDI, Integrated Planning, etc.<br>• Competence Centers Development.",
+    "imgDesktop": "./assets/cloud-6515064_1280-AR0bJn68OLfE5Wgr.webp",
+    "imgMobile": "./assets/cloud-6515064_1280-AR0bJn68OLfE5Wgr.webp"
+  },
+  {
+    "title": "Infrastructure Consulting",
+    "subtitle": "",
+    "text": "• Deployment & Operation of Secure & Efficient IT Infrastructure<br>• Migration to Cloud-based and/or On-premise Solutions<br>• Custom Solutions",
+    "imgDesktop": "./assets/ai-generated-7958874_1280-AQEpJGNP7bSQz1RM.webp",
+    "imgMobile": "./assets/ai-generated-7958874_1280-AQEpJGNP7bSQz1RM.webp"
+  }
+]

@@ -1,0 +1,29 @@
+{
+    "deliverables": [
+      {
+        "url": "./soft-deliverables/1.webp",
+        "alt": "Web Application Dashboard",
+        "link": null
+      },
+      {
+        "url": "./soft-deliverables/2.webp",
+        "alt": "Mobile App UI",
+        "link": null
+      },
+      {
+        "url": "./soft-deliverables/3.webp",
+        "alt": "E-commerce Website",
+        "link": null
+      },
+      {
+        "url": "./soft-deliverables/4.webp",
+        "alt": "Data Visualization Platform",
+        "link": null
+      },
+      {
+        "url": "./soft-deliverables/5.webp",
+        "alt": "Social Media App",
+        "link": null
+      }
+    ]
+  }
